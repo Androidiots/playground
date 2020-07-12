@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: intellij-core-26.5.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/intellij-core/26.5.3/b52e947b50a96c3012067e64f4635e962e30b51d/intellij-core-26.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/intellij-core/26.5.3/4465f6bb8f9b6e171f1c11f0b84bf68c5f9603e4/intellij-core-26.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

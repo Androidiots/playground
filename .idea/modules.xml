@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/playground.iml" filepath="$PROJECT_DIR$/playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidiotLint/AndroidiotLint.iml" filepath="$PROJECT_DIR$/AndroidiotLint/AndroidiotLint.iml" group="playground/AndroidiotLint" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="playground/app" />
+      <module fileurl="file://$PROJECT_DIR$/playground.iml" filepath="$PROJECT_DIR$/playground.iml" group="playground" />
     </modules>
   </component>
 </project>
