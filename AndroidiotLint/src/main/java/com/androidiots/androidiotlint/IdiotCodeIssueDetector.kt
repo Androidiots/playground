@@ -12,33 +12,26 @@ class IdiotCodeIssueDetector : Detector(), XmlScanner {
 
 
     override fun getApplicableElements(): Collection<String> {
-        return listOf("TextView")
+        return listOf("RadioButton")
     }
 
     override fun visitElement(context: XmlContext, element: Element) {
 
+        val idiotRadioButtonFix = LintFix.create()
+            .name("Use IdiotRadioButton")
+            .replace()
+            .text("RadioButton")
+            .with("com.androidiots.playground.IdiotRadioButton")
+            .robot(true)
+            .independent(true)
+            .build()
 
         context.report(
             issue = ISSUE,
             location = context.getNameLocation(element),
-            message = "Usage of RadioButton is prohibited"
+            message = "Usage of Radio Button is prohibited",
+            quickfixData = idiotRadioButtonFix
         )
-
-//        val idiotRadioButtonFix = LintFix.create()
-//            .name("Use IdiotRadioButton")
-//            .replace()
-//            .text("RadioButton")
-//            .with(" com.androidiots.playground.IdiotRadioButton")
-//            .robot(true)
-//            .independent(true)
-//            .build()
-//
-//        context.report(
-//            issue = ISSUE,
-//            location = context.getNameLocation(element),
-//            message = "Usage of android Radio Button is prohibited",
-//            quickfixData = idiotRadioButtonFix
-//        )
     }
 
     companion object {

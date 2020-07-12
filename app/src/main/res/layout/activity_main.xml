@@ -8,7 +8,7 @@
         android:fitsSystemWindows="true">
 
 
-    <RadioButton
+    <com.androidiots.playground.IdiotRadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintBottom_toBottomOf="parent"
