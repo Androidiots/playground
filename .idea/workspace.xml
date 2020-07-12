@@ -6,14 +6,11 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce20c148-cdf4-4e67-97be-4f377786691b" name="Default Changelist" comment="added custom lint base code">
+    <list default="true" id="ce20c148-cdf4-4e67-97be-4f377786691b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AndroidiotLint/src/test/java/com/androidiots/androidiotlint/IdiotCodeIssueDetectorTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidiotLint/AndroidiotLint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidiotLint/AndroidiotLint.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidiotLint/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidiotLint/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidiotLint/src/main/java/com/androidiots/androidiotlint/IdiotCodeIssueDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidiotLint/src/main/java/com/androidiots/androidiotlint/IdiotCodeIssueDetector.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +76,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.IdiotCodeIssueDetectorTest.testRadioButton">
+    <configuration name="IdiotCodeIssueDetectorTest (3)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AndroidiotLint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.androidiots.androidiotlint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.androidiots.androidiotlint" />
+      <option name="MAIN_CLASS_NAME" value="com.androidiots.androidiotlint.IdiotCodeIssueDetectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdiotCodeIssueDetectorTest (4)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AndroidiotLint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.androidiots.androidiotlint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.androidiots.androidiotlint" />
+      <option name="MAIN_CLASS_NAME" value="com.androidiots.androidiotlint.IdiotCodeIssueDetectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdiotCodeIssueDetectorTest (5)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AndroidiotLint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.androidiots.androidiotlint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.androidiots.androidiotlint" />
+      <option name="MAIN_CLASS_NAME" value="com.androidiots.androidiotlint.IdiotCodeIssueDetectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdiotCodeIssueDetectorTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AndroidiotLint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.androidiots.androidiotlint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.androidiots.androidiotlint" />
+      <option name="MAIN_CLASS_NAME" value="com.androidiots.androidiotlint.IdiotCodeIssueDetectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdiotCodeIssueDetectorTest.testRadioButton" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AndroidiotLint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.androidiots.androidiotlint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.androidiots.androidiotlint" />
+      <option name="MAIN_CLASS_NAME" value="com.androidiots.androidiotlint.IdiotCodeIssueDetectorTest" />
+      <option name="METHOD_NAME" value="testRadioButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -138,6 +216,15 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.IdiotCodeIssueDetectorTest.testRadioButton" />
+        <item itemvalue="Android JUnit.IdiotCodeIssueDetectorTest" />
+        <item itemvalue="Android JUnit.IdiotCodeIssueDetectorTest (5)" />
+        <item itemvalue="Android JUnit.IdiotCodeIssueDetectorTest (4)" />
+        <item itemvalue="Android JUnit.IdiotCodeIssueDetectorTest (3)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -157,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594545444967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added gradlex fixes and lint fixes">
+      <created>1594579937492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594579937492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added custom lint base code" />
-    <option name="LAST_COMMIT_MESSAGE" value="added custom lint base code" />
+    <MESSAGE value="added gradlex fixes and lint fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gradlex fixes and lint fixes" />
   </component>
   <component name="masterDetails">
     <states>
