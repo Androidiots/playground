@@ -2,6 +2,11 @@ package com.androidiots.playground.kotlinbytes
 
 import java.math.BigInteger
 
+
+/**
+ * src : https://medium.com/androiddevelopers/breaking-down-destructuring-declarations-e21334ac1e9
+ */
+
 data class Person(
         val name: String,
         val surName: String,
